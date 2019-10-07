@@ -7,7 +7,8 @@ from keras import backend as K
 from keras.utils.vis_utils import plot_model as plot
 from keras.optimizers import SGD
 from keras.optimizers import *
-from keras.layers import *        
+from keras.layers import *    
+import numpy as np 
 
 
 
